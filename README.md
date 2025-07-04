@@ -112,3 +112,14 @@ Closes the camera and GSM serial port.
 Configured to send an SMS to +256704730843 (replace with your own number).
 
 Sends this message when unauthorized access is repeated.
+
+
+Summary of Features:
+
+Feature	Description
+
+Face-based ignition	Only the recognized face can start the car.
+Button interaction	Physical button required to start/stop.
+LED status indicators	Blue (scan), Green (access), Red (denied).
+Intrusion alerts	Triggers siren + SMS after repeated failures.
+Safe shutdown	Handles keyboard interrupts cleanly.

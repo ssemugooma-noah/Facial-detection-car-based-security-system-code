@@ -114,9 +114,9 @@ Configured to send an SMS to +256704730843 (replace with your own number).
 Sends this message when unauthorized access is repeated.
 
 
-Summary of Features:
+7. Summary of Features:
 
-Feature	Description
+        Feature	Description
 
 Face-based ignition	Only the recognized face can start the car.
 
